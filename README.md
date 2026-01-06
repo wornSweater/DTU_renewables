@@ -13,7 +13,7 @@
 
 # 📖 Project Overview
 
-This project provides the code implementation for cases discussed by **[Prof. Jalal Kazempour](https://www.jalalkazempour.com/home)** for the **[DTU](https://www.dtu.dk/english/)** (Technical University of Denmark) Master’s course **[Renewables in Electricity Markets](https://www.jalalkazempour.com/teaching/msc-renewables-in-electricity-marketss)**. The goal of this repository is to bridge the gap between theoretical lecture material and practical numerical modeling. It is designed to support students who may be new to optimization modeling / coding tools like Gurobi or HiGHS.
+This project provides the code implementation for cases discussed by **[Prof. Jalal Kazempour](https://www.jalalkazempour.com/home)** for the **[DTU](https://www.dtu.dk/english/)** (Technical University of Denmark) Master’s course **[Renewables in Electricity Markets](https://www.jalalkazempour.com/teaching/msc-renewables-in-electricity-markets)**. The goal of this repository is to bridge the gap between theoretical lecture material and practical numerical modeling. It is designed to support students who may be new to optimization modeling / coding tools like Gurobi or HiGHS.
 
 Please click the links below to find more information:
 
