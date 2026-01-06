@@ -259,3 +259,6 @@ Optimal p_g2: 0.0
 Optimal p_d1: 40.0
 Market price is: 20.0
 ```
+
+# ⚖️ MIT LICENSE
+This project is still onging and please feel free to add either new relevant content or corrections to it.
